@@ -1,0 +1,27 @@
+GET http://localhost:5000/users
+
+###
+GET http://localhost:5000/users/62f21d90630a4685983c7453
+
+###
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "name": "Nuro",
+    "email": "nuro@gmail.com",
+    "gender": "Female"
+}
+
+###
+PATCH http://localhost:5000/users/62f21d90630a4685983c7453
+Content-Type: application/json
+
+{
+    "name": "Kuro",
+    "email": "kuro@gmail.com",
+    "gender": "Male"
+}
+
+###
+DELETE http://localhost:5000/users/62f21d90630a4685983c7453
