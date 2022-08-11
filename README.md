@@ -32,6 +32,8 @@ MERN Video : https://youtu.be/R5jNlWOv5qk
 
 YouTube : https://www.youtube.com/c/CoderMediax
 
+Github : https://github.com/mfikricom
+
 Footnote:
 1. https://www.codecademy.com/article/what-is-crud
 2. https://www.geeksforgeeks.org/mern-stack/
